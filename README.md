@@ -1,2 +1,2 @@
 # ShineOxygenWiki
-我的wiki，采用gollum实现
+我的wiki，mdwiki实现，暂时不维护了
