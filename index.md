@@ -1,1 +1,12 @@
-欢迎来到我的wiki，这个wiki负责收集我所整理的资料以及各类问题的解决办法，我用来wiki作为一个手册性质的站点，随时可查可改，便于我的知识管理，也希望能帮到你。
+=======
+
+SubHeading
+----------
+
+  * list item 1
+  * list item 2
+
+  This is a hyperlink to [Google](http://google.com).
+
+  Images are like hyperlinks, but with an exclamation mark in front of them:
+  ![](http://placekitten.com/g/250/250)
